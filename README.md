@@ -1,2 +1,2 @@
-# users-interactor
-Users interactor package
+# Interactor
+Interactor template package
